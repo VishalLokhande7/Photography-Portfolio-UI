@@ -1,6 +1,7 @@
-
+<div align="center">
 
 # 📷 Photography Portfolio UI
+
 ### A Modern Responsive Photography Portfolio Built with HTML & CSS
 
 *A clean and elegant photography portfolio interface featuring a fullscreen hero section, sidebar navigation, and responsive design.*
@@ -11,9 +12,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/VishalLokhande7?style=social)](https://github.com/VishalLokhande7)
 
-### 👨‍💻 Created by **Vishal Lokhande**
+### ✨ Crafted by **Vishal Lokhande**
 
-*A frontend project focused on creating a modern photography portfolio interface using only HTML and CSS.*
+*A frontend project showcasing responsive web design and modern UI development using HTML and CSS.*
 
 </div>
 
@@ -28,17 +29,13 @@ The project features a clean sidebar navigation, fullscreen hero image, elegant 
 It demonstrates strong frontend fundamentals including Flexbox, responsive layouts, UI design principles, and clean code organization.
 
 ---
-
 # 📸 Project Preview
-
-> **Add your screenshots after uploading them to the repository.**
 
 <div align="center">
 
 ### 🏠 Home Page
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b9e2bd6-bc18-403c-b290-55e7b4387f4b" /><div align="center">
+<img width="100%" alt="Photography Portfolio UI" src="https://github.com/user-attachments/assets/1b9e2bd6-bc18-403c-b290-55e7b4387f4b"/>
 
 </div>
 
