@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b9e2bd6-bc18-403c-b290-55e7b4387f4b" /><div align="center">
+
 
 # 📷 Photography Portfolio UI
 ### A Modern Responsive Photography Portfolio Built with HTML & CSS
@@ -38,8 +38,7 @@ It demonstrates strong frontend fundamentals including Flexbox, responsive layou
 ### 🏠 Home Page
 
 
-<img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5569edf1-ec9a-43b6-8170-bcb0073e3cce" />
-" width="100%"/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b9e2bd6-bc18-403c-b290-55e7b4387f4b" /><div align="center">
 
 </div>
 
